@@ -2,7 +2,6 @@
 title: "Trabajo Final Análisis Numérico"
 author: "Adame Serrano Eduardo"
 output: 
-  html_document:
     theme: darkly
     toc: FALSE
     toc_depth: 3
